@@ -1,0 +1,42 @@
+{
+    "development": {
+        "port": 3306,
+        "driver": "mysql",
+        "host": "192.168.1.72",
+        "auth": true,
+        "username": "Admin",
+        "password": "Vush@w123",
+        "database": "creativelifedev",
+        "secure": {
+            "sslValidate": false,
+            "checkServerIdentify": false,
+            "sslCA": null
+        },
+        "options": {
+            "useNewUrlParser": true,
+            "useFindAndModify": false,
+            "useCreateIndex": true,
+            "useUnifiedTopology": true
+        }
+    },
+    "production": {
+        "port": 3306,
+        "driver": "mysql",
+        "host": "localhost",
+        "auth": true,
+        "username": "Admin",
+        "password": "Vush@w123",
+        "database": "creativelifedev",
+        "secure": {
+            "sslValidate": false,
+            "checkServerIdentify": false,
+            "sslCA": null
+        },
+        "options": {
+            "useNewUrlParser": true,
+            "useFindAndModify": true,
+            "useCreateIndex": true,
+            "useUnifiedTopology": true
+        }
+    }
+}

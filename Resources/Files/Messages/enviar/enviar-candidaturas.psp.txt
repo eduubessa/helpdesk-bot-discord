@@ -1,0 +1,17 @@
+>>> 
+**Envia a tua candidatura**
+
+Agradecemos desde já pelo teu interesse pela Polícia de Segurança Pública, para iniciares a tua candidatura,
+tens que preencher um formulário em que é necessário preencher com os teus dados completos.
+
+Formulário: <http://eduardobessa.pt>
+**Os documentos que necessitamos para validar a tua candidatura:**
+
+- Cartão de Cidadão
+- Registo criminal
+- Um breve texto sobre a razão da candidatura (pode ser mesmo descrito)
+
+**Todos os documentos acima podem ser solicitados nos portais disponiveis.**
+
+Após do envido de toda a documentação e tudo o que foi solicidado, digita o comando `!candidatura-enviada` de forma
+a que os responsáveis pelas candidaturas da Policia de Segurança Pública possa ser informado.
